@@ -1,1 +1,17 @@
-'{}' 
+{
+	"name": "karlpfay25/Telegram-Login",
+	"description": "Toolkit for starting a PHP application locally, with or without foreman, using the same config for PHP and Apache2/Nginx as on Heroku",
+	"keywords": ["heroku", "foreman", "php", "nginx"],
+	"homepage": "https://github.com/karlpfay25/Telegram-Login",
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "karlpfay25",
+			"email": "karlpfay@gmail.com"
+		}
+	],
+	"bin": [
+		"bin/heroku-php-nginx"
+	]
+}
